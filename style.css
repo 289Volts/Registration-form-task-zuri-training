@@ -160,7 +160,7 @@ input:valid ~ .error {
     max-width: 80%;
     /* height: 400px; */
     padding: 0 20px;
-    margin: 100px auto 0 auto;
+    margin: 80px auto 0 auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
