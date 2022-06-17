@@ -140,7 +140,7 @@ input:valid ~ .error {
   color: hsl(0, 100%, 61%);
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 992px) {
   * {
     box-sizing: border-box;
     margin: 0;
